@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Olá, meu nome é Gustavo Kawano!</h1>
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE5Mzg1MjYsIm5iZiI6MTcxMTkzODIyNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAxVDAyMjM0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MmQ5YTk3ZjA4ZTc3ZjgxODI1MTY1YzQ1MTc1NGQ1MWE0NjgyOWJhZDRhZWEzZDJiYWE5YTQxM2E2NWQ5NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0Av9GBkPgV-LQuXSHaFUaHPszhPcEHRz-_cAQPuFEjo" height="350px" align="center"/><br>
-  <a href="https://www.linkedin.com/in/kawanog/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href = "mailto:gus.kawano@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="left">
@@ -12,6 +10,8 @@
      sempre buscando expandir meus conhecimentos nela. Atualmente
      sou Bacharelando em Cibersegurança e, também, já cursei alguns anos
      de Sistemas de Informação. 🙂</p>
+    <a href="https://www.linkedin.com/in/kawanog/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href = "mailto:gus.kawano@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <h2>Algumas linguagens e tecnologias que usei e aprendi até agora! 🚀</h2>
