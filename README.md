@@ -6,9 +6,9 @@
 <div align="left">
   <h2>Sobre mim 🤠</h2>
   <p>Sou um estudante de Cibersegurança e um entusiasta do mundo da
-     tecnologia. Me apaixonei por estudar a área da Segurança e estou
+     tecnologia. Me apaixonei por estudar a área da segurança e estou
      sempre buscando expandir meus conhecimentos nela. Atualmente
-     sou Bacharelando em Cibersegurança e, também, já cursei alguns anos
+     sou bacharelando em Cibersegurança e, também, já cursei alguns anos
      de Sistemas de Informação. 🙂</p>
     <div align="center">
       <a href="https://www.linkedin.com/in/kawanog/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
